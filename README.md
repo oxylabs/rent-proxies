@@ -2,7 +2,7 @@
 
 [![Oxylabs promo code](https://raw.githubusercontent.com/oxylabs/product-integrations/refs/heads/master/Affiliate-Universal-1090x275.png)](https://oxylabs.io/pages/gitoxy?utm_source=877&utm_medium=affiliate&groupid=877&utm_content=rent-proxies-github&transaction_id=102f49063ab94276ae8f116d224b67)
 
-[![](https://dcbadge.vercel.app/api/server/eWsVUJrnG5)](https://discord.gg/Pds3gBmKMH)
+[![](https://dcbadge.limes.pink/api/server/Pds3gBmKMH?style=for-the-badge&theme=discord)](https://discord.gg/Pds3gBmKMH) [![YouTube](https://img.shields.io/badge/YouTube-Oxylabs-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@oxylabs)
 
 Oxylabs' proxies can be effortlessly integrated with a wide range of third-party software. For detailed information about integrating our products, please refer to our extensive [documentation](https://developers.oxylabs.io/?_gl=1*pf53jr*_gcl_aw*R0NMLjE3MDg2ODkyNzMuQ2owS0NRaUFvZUd1QmhDQkFSSXNBR2ZLWTd3QXVHdjRFWlV6NkNYZmYwaEhUZFJhdDZ1eFJyVDV0a2R1ZlBUNkFZVTBJUHZLN01tMVZOWWFBbERQRUFMd193Y0I.*_gcl_au*MTc2MDgxNTAwNC4xNzA1OTI3MzM0`).
 
