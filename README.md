@@ -19,7 +19,7 @@ With Residential Proxies, you can collect public data from almost any website in
 
 [**Mobile Proxies**](https://oxylabs.io/products/mobile-proxies)
 
-Bypass geo-restrictions effortlessly with high-quality and reliable Mobile Proxy IPs.
+Handle geo-restrictions effortlessly with high-quality and reliable Mobile Proxy IPs.
 
 - Country, state, city, and ASN targeting
 - 1.1 s market leading response time
